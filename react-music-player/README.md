@@ -7,3 +7,5 @@
 
 #### 兴趣是最好的老师。
 #### 种一棵树最好的时间是十年前，然后就是现在。
+##### 效果图：
+![hello, I 'm 效果图，我出不来了，maybe刷新试试看](https://github.com/gitaoliao/reactMusicPlayer/blob/master/react-music-player/imgs/%E6%95%88%E6%9E%9C.png)
